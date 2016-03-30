@@ -22,7 +22,5 @@ namespace HelloWorld
         {
             Console.WriteLine("test1");
         }
-
-
     }
 }

@@ -22,5 +22,10 @@ namespace HelloWorld
         {
             Console.WriteLine("test1");
         }
+
+        public static void Test2()
+        {
+            Console.WriteLine("test2");
+        }
     }
 }

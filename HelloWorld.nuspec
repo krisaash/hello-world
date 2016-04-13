@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>HelloWorld</id>
+    <version>$version$</version>
+    <authors>krisaash</authors>
+    <description>Test project</description>
+    <language>en-US</language>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags></tags>
+  </metadata>
+</package>
